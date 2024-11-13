@@ -1,0 +1,4 @@
+0    469
+1    216
+2    206
+Name: count, dtype: int64
